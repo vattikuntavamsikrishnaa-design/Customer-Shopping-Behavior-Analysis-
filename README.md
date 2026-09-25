@@ -1,4 +1,5 @@
 **Project Highlights**
+
 Analyzed 3,900 customer purchase records to identify shopping patterns, customer segments, and product preferences.
 
 Used Python for data cleaning, missing-value handling, feature engineering, and data preparation.
